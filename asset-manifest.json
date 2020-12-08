@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/caleb-nash-portfolio/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/caleb-nash-portfolio/static/js/main.a8032e55.chunk.js",
-    "main.js.map": "/caleb-nash-portfolio/static/js/main.a8032e55.chunk.js.map",
-    "runtime-main.js": "/caleb-nash-portfolio/static/js/runtime-main.ae407b03.js",
-    "runtime-main.js.map": "/caleb-nash-portfolio/static/js/runtime-main.ae407b03.js.map",
-    "static/js/2.11565f9b.chunk.js": "/caleb-nash-portfolio/static/js/2.11565f9b.chunk.js",
-    "static/js/2.11565f9b.chunk.js.map": "/caleb-nash-portfolio/static/js/2.11565f9b.chunk.js.map",
-    "static/js/3.1194bb02.chunk.js": "/caleb-nash-portfolio/static/js/3.1194bb02.chunk.js",
-    "static/js/3.1194bb02.chunk.js.map": "/caleb-nash-portfolio/static/js/3.1194bb02.chunk.js.map",
+    "main.css": "/caleb-nash-portfolio/static/css/main.66415e94.chunk.css",
+    "main.js": "/caleb-nash-portfolio/static/js/main.34761ad7.chunk.js",
+    "main.js.map": "/caleb-nash-portfolio/static/js/main.34761ad7.chunk.js.map",
+    "runtime-main.js": "/caleb-nash-portfolio/static/js/runtime-main.0e603582.js",
+    "runtime-main.js.map": "/caleb-nash-portfolio/static/js/runtime-main.0e603582.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/caleb-nash-portfolio/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.7f9c812c.chunk.js": "/caleb-nash-portfolio/static/js/2.7f9c812c.chunk.js",
+    "static/js/2.7f9c812c.chunk.js.map": "/caleb-nash-portfolio/static/js/2.7f9c812c.chunk.js.map",
+    "static/js/3.fd9f832c.chunk.js": "/caleb-nash-portfolio/static/js/3.fd9f832c.chunk.js",
+    "static/js/3.fd9f832c.chunk.js.map": "/caleb-nash-portfolio/static/js/3.fd9f832c.chunk.js.map",
     "index.html": "/caleb-nash-portfolio/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/caleb-nash-portfolio/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.11565f9b.chunk.js.LICENSE.txt": "/caleb-nash-portfolio/static/js/2.11565f9b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/caleb-nash-portfolio/static/media/logo.6ce24c58.svg"
+    "static/css/2.20aa2d7b.chunk.css.map": "/caleb-nash-portfolio/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.66415e94.chunk.css.map": "/caleb-nash-portfolio/static/css/main.66415e94.chunk.css.map",
+    "static/js/2.7f9c812c.chunk.js.LICENSE.txt": "/caleb-nash-portfolio/static/js/2.7f9c812c.chunk.js.LICENSE.txt",
+    "static/media/NewsApp.88f67410.png": "/caleb-nash-portfolio/static/media/NewsApp.88f67410.png",
+    "static/media/PixelPerfect.95ca271c.png": "/caleb-nash-portfolio/static/media/PixelPerfect.95ca271c.png",
+    "static/media/RenewalCenter.eff60342.png": "/caleb-nash-portfolio/static/media/RenewalCenter.eff60342.png",
+    "static/media/profilepic.4029e97d.jpg": "/caleb-nash-portfolio/static/media/profilepic.4029e97d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae407b03.js",
-    "static/js/2.11565f9b.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.a8032e55.chunk.js"
+    "static/js/runtime-main.0e603582.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.7f9c812c.chunk.js",
+    "static/css/main.66415e94.chunk.css",
+    "static/js/main.34761ad7.chunk.js"
   ]
 }
