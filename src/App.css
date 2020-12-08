@@ -1,38 +1,230 @@
-.App {
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar{
+  width:100%;
+  position: sticky;
+  top: 0;
+  padding: 15px;
+  overflow: hidden;
+  background-color: white;
+  margin-top: 0;
+  z-index: 1;
+  box-shadow: 0 1px 1px 0 rgba(36, 50, 66, 0.15);
+}
+
+.navbar-left{
+  color: #fff;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-right a {
+  padding: 0px 30px;
+  text-decoration: none;
+  color: #fff;
+}
+
+#about{
+  background-image: url('https://download.hipwallpaper.com/desktop/1280/1024/88/17/xUs1LK.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* #about h2{
+  font: 22px/30px 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #fff;
+  margin-bottom: 12px;
+  text-align: center;
+} */
+
+#about h3{
+  border-bottom: 3px solid #fff;
+  color: #fff;
+  font: 300 18px/24px "Raleway",sans-serif;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#about p{
+  line-height: 30px;
+  color: #fff;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+.bio-container{
+  width: 100%;
+  padding: 0;
+  margin:0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.bio-left{
+  padding: 20px;
+}
+
+.bio-left h2{
+  font: 22px/30px 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #fff;
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+.pp-container{
+  text-align: center;
+  display: block;
+  margin: 5px auto;
+  padding: 10px;
+  width: 225px;
+}
+
+.profile-pic{
+  border-radius: 100%;
+  height: auto;
+  margin: 15px 18px;
+  position: relative;
+  width: 80%;
+}
+
+.bio-right{
+  padding: 50px;
+}
+
+.bio-right p{
+  font-size: 13px;
+}
+
+.bio-right h2{
+  font: 28px/36px 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #fff;
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+.contact-container{
+  text-align: center;
+  padding: 20px 5%;
+  background-color: #222831;
   color: white;
+  text-shadow: 1px 1px 1px rgba(33, 33, 33, 0.2);
 }
 
-.App-link {
-  color: #61dafb;
+.card-holder{
+  display: flex;
+  justify-content: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  flex-wrap: wrap;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+#contact .card{
+  width: 150px;
+  margin: 20px;
+  text-align: center;
+  background-color: #222831;
+  border: none;
+}
+
+#contact .card a{
+  color: white;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+}
+#contact .card p{
+  font-size: 15px;
+  padding: 0 12px;
+}
+
+#contact .card a:hover{
+  transform: scale(1.1);
+}
+
+.portfolio{
+  text-align: center;
+  justify-content: center;
+}
+
+
+@media only screen and (max-width: 620px) {
+  .navbar-left {
+    margin: auto;
   }
-  to {
-    transform: rotate(360deg);
+  #about h3{
+    width: 94%;
   }
+  .bio-left{
+    padding: 60px 0px;
+  }
+  .navbar-right a {
+    padding: 0px 27px;
+  }
+
+  #portfolio .card {
+    margin-right: 15px;
+    margin-bottom: 0;
+    margin-left: 15px;
+  }
+}
+
+/* ---------------PROJECTS----------------- */
+
+#portfolio {
+  margin-bottom: 20px;
+}
+
+#portfolio .card {
+  background-color: #F9F9F9;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.19);
+  padding: 0px;
+  margin-bottom: 30px;
+}
+
+.my-projects-header {
+  font-weight: 300;
+  color: black;
+  font-size: 40px;
+
+}
+
+.work-picture {
+  width: 100%;
+  border-bottom: 1px solid lightgray;
+}
+
+.work-title {
+  font-weight: 300;
+  color: black;
+}
+
+.work-description {
+  color: black;
+  font-size: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.more-button {
+  color: #EEEEEE;
+  background: #4F8A8B;
+  border-radius: 80px;
+  padding: 8px 16px;
+  font-size: 10px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.more-button:hover {
+  color: #222831;
+  background: #EEEEEE;
+  border-radius: 80px;
+  padding: 8px 16px;
+  font-size: 10px;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 10px;
 }
