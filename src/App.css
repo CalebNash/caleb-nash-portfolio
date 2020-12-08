@@ -16,12 +16,12 @@ html {
 
 .navbar-left{
   color: #fff;
-  font-size: 20px;
+  font-size: 25px;
   font-family: 'Open Sans', sans-serif;
 }
 
 .navbar-right a {
-  padding: 0px 30px;
+  padding: 0px 35px;
   text-decoration: none;
   color: #fff;
 }
@@ -44,14 +44,14 @@ html {
 #about h3{
   border-bottom: 3px solid #fff;
   color: #fff;
-  font: 300 18px/24px "Raleway",sans-serif;
+  font: 300 22px/28px "Raleway",sans-serif;
   margin-bottom: 15px;
   padding-bottom: 10px;
   text-align: center;
 }
 
 #about p{
-  line-height: 30px;
+  line-height: 35px;
   color: #fff;
 }
 
@@ -67,7 +67,7 @@ html {
 }
 
 .bio-left h2{
-  font: 22px/30px 'Open Sans', sans-serif;
+  font: 26px/34px 'Open Sans', sans-serif;
   font-weight: 300;
   color: #fff;
   margin-bottom: 12px;
@@ -87,7 +87,7 @@ html {
   height: auto;
   margin: 15px 18px;
   position: relative;
-  width: 80%;
+  width: 90%;
 }
 
 .bio-right{
@@ -95,11 +95,11 @@ html {
 }
 
 .bio-right p{
-  font-size: 13px;
+  font-size: 18px;
 }
 
 .bio-right h2{
-  font: 28px/36px 'Open Sans', sans-serif;
+  font: 32px/40px 'Open Sans', sans-serif;
   font-weight: 300;
   color: #fff;
   margin-bottom: 12px;
@@ -136,7 +136,7 @@ html {
   transition: all .3s ease-in-out;
 }
 #contact .card p{
-  font-size: 15px;
+  font-size: 17px;
   padding: 0 12px;
 }
 
@@ -187,7 +187,7 @@ html {
 .my-projects-header {
   font-weight: 300;
   color: black;
-  font-size: 40px;
+  font-size: 48px;
 
 }
 
@@ -203,7 +203,7 @@ html {
 
 .work-description {
   color: black;
-  font-size: 14px;
+  font-size: 18px;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -213,7 +213,7 @@ html {
   background: #4F8A8B;
   border-radius: 80px;
   padding: 8px 16px;
-  font-size: 10px;
+  font-size: 12px;
   font-weight: bold;
   margin: 10px;
 }
@@ -223,7 +223,7 @@ html {
   background: #EEEEEE;
   border-radius: 80px;
   padding: 8px 16px;
-  font-size: 10px;
+  font-size: 12px;
   font-weight: bold;
   text-decoration: none;
   margin: 10px;
