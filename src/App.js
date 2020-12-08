@@ -23,7 +23,7 @@ function App() {
          <div className="pp-container">
            <img className="profile-pic"src={profile} alt="Brian Cambron"/>
            <h2>Caleb Nash</h2>
-           <h3>Full Stack Developer</h3>
+           <h3 id='full-stack-desc'>Full Stack Developer</h3>
          </div>
        </div>
        <div className="col-md-6 col-12 bio-right">

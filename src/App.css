@@ -44,7 +44,7 @@ html {
 #about h3{
   border-bottom: 3px solid #fff;
   color: #fff;
-  font: 300 22px/28px "Raleway",sans-serif;
+  font: 300 26px/34px "Raleway",sans-serif;
   margin-bottom: 15px;
   padding-bottom: 10px;
   text-align: center;
@@ -72,10 +72,6 @@ html {
   color: #fff;
   margin-bottom: 12px;
   text-align: center;
-}
-
-.bio-left{
-  font: 26px/34px 'Open Sans', sans-serif;
 }
 
 .pp-container{
