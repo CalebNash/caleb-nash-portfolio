@@ -38,7 +38,7 @@ function App() {
         <h1 className="my-projects-header">My Projects</h1>
       </div>
     </div>
-    <div className="col-12 col-md-3 card">
+    <div className="col-10 col-md-3 card">
       <img src={renewalCenter} alt="Table App" className="work-picture"/>
       <h3 className="mt-3 work-title">Renewal Center</h3>
       <p className="work-description">A website for the Renewal Center, a homeless shelter and resource center.</p>
@@ -47,7 +47,7 @@ function App() {
         <a href="https://github.com/CalebNash/ccs-final-project" target="_blank" rel="noopener noreferrer" className="more-button">GitHub</a>
       </div>
     </div>
-    <div className="col-12 col-md-3 card">
+    <div className="col-10 col-md-3 card">
       <img src={pixelPerfect} alt="Pixel Perfect" className="work-picture"/>
       <h3 className="mt-3 work-title">Pixel Perfect</h3>
       <p className="work-description">A mockup recreation using HTML and CSS.</p>
@@ -56,7 +56,7 @@ function App() {
       <a href="https://github.com/CalebNash/pixel-perfect" target="_blank" rel="noopener noreferrer" className="more-button">GitHub</a>
       </div>
     </div>
-    <div className="col-12 col-md-3 card">
+    <div className="col-10 col-md-3 card">
       <img src={newsApp} alt="News App" className="work-picture"/>
       <h3 className="mt-3 work-title">News App</h3>
       <p className="work-description">A full stack app for publishing news articles.</p>
@@ -70,17 +70,17 @@ function App() {
      <div className="contact-container">
        <h1 style={{fontSize:'30px', fontWeight: '150'}}>Contact Me</h1>
        <div className="card-holder">
-         <div className='card'>
+         <div className='card contact-card'>
            <a href="mailto:cejaynash@gmail.com" alt='email Brian'><i style={{fontSize:'25px', color:'white'}}className="far fa-envelope"></i>
            <p>cejaynash@gmail.com</p>
            </a>
          </div>
-         <div className='card'>
+         <div className='card contact-card'>
            <a target="_blank" rel="noreferrer" href="https://github.com/CalebNash" alt="Caleb's github"><i style={{fontSize:'25px', color:'white'}}className="fab fa-github"></i>
            <h5 className="mt-2">GITHUB</h5>
            </a>
          </div>
-         <div className='card'>
+         <div className='card contact-card'>
            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/caleb-nash-69b0451a3/" alt="Caleb's linkedin"><i style={{fontSize:'25px', color:'white'}}className="fab fa-linkedin-in"></i>
            <h5 className="mt-2">LINKEDIN</h5>
            </a>

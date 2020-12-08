@@ -79,7 +79,7 @@ html {
   display: block;
   margin: 5px auto;
   padding: 10px;
-  width: 225px;
+  width: 300px;
 }
 
 .profile-pic{
@@ -87,7 +87,7 @@ html {
   height: auto;
   margin: 15px 18px;
   position: relative;
-  width: 90%;
+  width: 70%;
 }
 
 .bio-right{
@@ -144,6 +144,8 @@ html {
   transform: scale(1.1);
 }
 
+
+
 .portfolio{
   text-align: center;
   justify-content: center;
@@ -169,6 +171,8 @@ html {
     margin-bottom: 0;
     margin-left: 15px;
   }
+
+
 }
 
 /* ---------------PROJECTS----------------- */
