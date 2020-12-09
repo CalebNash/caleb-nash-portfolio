@@ -43,7 +43,7 @@ function App() {
       <h3 className="mt-3 work-title">Renewal Center</h3>
       <p className="work-description">A website for the Renewal Center, a homeless shelter and resource center.</p>
       <div className="row justify-content-center mt-3 mb-3">
-        <a href="https://https://renewal-center.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="more-button">Website</a>
+        <a href="https://renewal-center.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="more-button">Website</a>
         <a href="https://github.com/CalebNash/ccs-final-project" target="_blank" rel="noopener noreferrer" className="more-button">GitHub</a>
       </div>
     </div>
