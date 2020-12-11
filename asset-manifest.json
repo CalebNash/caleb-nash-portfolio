@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/caleb-nash-portfolio/static/css/main.b8c396fa.chunk.css",
-    "main.js": "/caleb-nash-portfolio/static/js/main.2e173c0c.chunk.js",
-    "main.js.map": "/caleb-nash-portfolio/static/js/main.2e173c0c.chunk.js.map",
+    "main.css": "/caleb-nash-portfolio/static/css/main.36ac63ba.chunk.css",
+    "main.js": "/caleb-nash-portfolio/static/js/main.ff95ae57.chunk.js",
+    "main.js.map": "/caleb-nash-portfolio/static/js/main.ff95ae57.chunk.js.map",
     "runtime-main.js": "/caleb-nash-portfolio/static/js/runtime-main.0e603582.js",
     "runtime-main.js.map": "/caleb-nash-portfolio/static/js/runtime-main.0e603582.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/caleb-nash-portfolio/static/css/2.20aa2d7b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.fd9f832c.chunk.js.map": "/caleb-nash-portfolio/static/js/3.fd9f832c.chunk.js.map",
     "index.html": "/caleb-nash-portfolio/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/caleb-nash-portfolio/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.b8c396fa.chunk.css.map": "/caleb-nash-portfolio/static/css/main.b8c396fa.chunk.css.map",
+    "static/css/main.36ac63ba.chunk.css.map": "/caleb-nash-portfolio/static/css/main.36ac63ba.chunk.css.map",
     "static/js/2.7f9c812c.chunk.js.LICENSE.txt": "/caleb-nash-portfolio/static/js/2.7f9c812c.chunk.js.LICENSE.txt",
     "static/media/NewsApp.88f67410.png": "/caleb-nash-portfolio/static/media/NewsApp.88f67410.png",
     "static/media/PixelPerfect.95ca271c.png": "/caleb-nash-portfolio/static/media/PixelPerfect.95ca271c.png",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.0e603582.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.7f9c812c.chunk.js",
-    "static/css/main.b8c396fa.chunk.css",
-    "static/js/main.2e173c0c.chunk.js"
+    "static/css/main.36ac63ba.chunk.css",
+    "static/js/main.ff95ae57.chunk.js"
   ]
 }
